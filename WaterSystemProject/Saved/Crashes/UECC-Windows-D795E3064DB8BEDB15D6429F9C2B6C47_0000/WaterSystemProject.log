@@ -1,0 +1,1106 @@
+﻿Log file open, 08/15/22 15:19:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=25628)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WaterSystemProject
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/git/Water-System/WaterSystemProject/WaterSystemProject.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 6900HX with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="60e8507944d6b5a38393b6bc77614947"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.235799
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D795E3064DB8BEDB15D6429F9C2B6C47
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WaterExtras
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/WaterExtras/Content/' mounted to '/WaterExtras/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: AMD Ryzen 9 6900HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.15-06.19.51:345][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.15-06.19.51:346][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.15-06.19.51:348][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.15-06.19.51:362][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.15-06.19.51:362][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.15-06.19.51:481][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.15-06.19.51:481][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 1 output[s]
+[2022.08.15-06.19.51:565][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.15-06.19.51:565][  0]LogD3D12RHI: Adapter has 486MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 1 output[s]
+[2022.08.15-06.19.51:581][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.15-06.19.51:581][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 0 output[s]
+[2022.08.15-06.19.51:581][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.15-06.19.51:582][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.15-06.19.51:582][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.15-06.19.51:583][  0]LogHAL: Display: Platform has ~ 16 GB [16388243456 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.15-06.19.51:583][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.15-06.19.51:583][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.15-06.19.51:583][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.15-06.19.51:583][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.15-06.19.51:583][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/git/Water-System/WaterSystemProject/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.15-06.19.51:583][  0]LogInit: Computer: LAPTOP-U7N7QVJ3
+[2022.08.15-06.19.51:583][  0]LogInit: User: munye
+[2022.08.15-06.19.51:583][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.15-06.19.51:583][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.15-06.19.51:583][  0]LogMemory: Memory total: Physical=15.3GB (16GB approx)
+[2022.08.15-06.19.51:584][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.15-06.19.51:584][  0]LogMemory: Process Physical Memory: 288.28 MB used, 308.86 MB peak
+[2022.08.15-06.19.51:584][  0]LogMemory: Process Virtual Memory: 273.53 MB used, 273.53 MB peak
+[2022.08.15-06.19.51:584][  0]LogMemory: Physical Memory: 9241.38 MB used,  6387.67 MB free, 15629.05 MB total
+[2022.08.15-06.19.51:584][  0]LogMemory: Virtual Memory: 16576.64 MB used,  19532.41 MB free, 36109.05 MB total
+[2022.08.15-06.19.51:584][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.15-06.19.51:589][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.15-06.19.51:602][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.15-06.19.51:603][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.15-06.19.51:603][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.08.15-06.19.51:725][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.15-06.19.51:743][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.15-06.19.51:743][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.15-06.19.51:743][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.08.15-06.19.51:754][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.15-06.19.51:754][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.15-06.19.51:841][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.15-06.19.51:844][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.15-06.19.51:844][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.15-06.19.51:912][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.15-06.19.51:979][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.15-06.19.51:987][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.15-06.19.52:009][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.15-06.19.52:036][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.15-06.19.52:036][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.15-06.19.52:057][  0]LogD3D12RHI:     GPU DeviceId: 0x24a0 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.15-06.19.52:057][  0]LogWindows: EnumDisplayDevices:
+[2022.08.15-06.19.52:057][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2022.08.15-06.19.52:057][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.08.15-06.19.52:057][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.08.15-06.19.52:058][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.08.15-06.19.52:058][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.08.15-06.19.52:058][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:1 D:1)
+[2022.08.15-06.19.52:058][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.08.15-06.19.52:058][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2022.08.15-06.19.52:058][  0]LogD3D12RHI:   Driver Version: 511.69 (internal:30.0.15.1169, unified:511.69)
+[2022.08.15-06.19.52:058][  0]LogD3D12RHI:      Driver Date: 2-1-2022
+[2022.08.15-06.19.52:058][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2022.08.15-06.19.52:058][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.15-06.19.52:058][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.15-06.19.52:070][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.15-06.19.52:076][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/git/Water-System/WaterSystemProject/WaterSystemProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/git/Water-System/WaterSystemProject/Intermediate/TurnkeyReport_0.log" -log="C:/git/Water-System/WaterSystemProject/Intermediate/TurnkeyLog_0.log" -project="C:/git/Water-System/WaterSystemProject/WaterSystemProject.uproject"  -platform=all'
+[2022.08.15-06.19.52:076][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/git/Water-System/WaterSystemProject/WaterSystemProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/git/Water-System/WaterSystemProject/Intermediate/TurnkeyReport_0.log" -log="C:/git/Water-System/WaterSystemProject/Intermediate/TurnkeyLog_0.log" -project="C:/git/Water-System/WaterSystemProject/WaterSystemProject.uproject"  -platform=all" ]
+[2022.08.15-06.19.52:100][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.15-06.19.52:107][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.15-06.19.52:107][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.15-06.19.52:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.15-06.19.52:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.15-06.19.52:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.15-06.19.52:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.15-06.19.52:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.15-06.19.52:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.15-06.19.52:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.15-06.19.52:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.15-06.19.52:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.15-06.19.52:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.15-06.19.52:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.15-06.19.52:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.15-06.19.52:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.15-06.19.52:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.15-06.19.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.15-06.19.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.15-06.19.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.15-06.19.52:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.15-06.19.52:153][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.15-06.19.52:162][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.15-06.19.52:163][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.15-06.19.52:163][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.15-06.19.52:163][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.15-06.19.52:163][  0]LogTargetPlatformManager:   PCM
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager:   BINKA
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager:   OGG
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.15-06.19.52:166][  0]LogTargetPlatformManager:   OPUS
+[2022.08.15-06.19.52:197][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.15-06.19.52:198][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.15-06.19.52:203][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.15-06.19.52:206][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.15-06.19.52:206][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.15-06.19.52:207][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../git/Water-System/WaterSystemProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.15-06.19.52:207][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.15-06.19.52:207][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../git/Water-System/WaterSystemProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.15-06.19.52:207][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.15-06.19.52:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../git/Water-System/WaterSystemProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.15-06.19.52:210][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.15-06.19.52:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../git/Water-System/WaterSystemProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.15-06.19.52:210][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.15-06.19.52:227][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.08.15-06.19.52:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.15-06.19.52:227][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.15-06.19.52:237][  0]LogDerivedDataCache: Speed tests for C:/Users/munye/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.15-06.19.52:237][  0]LogDerivedDataCache: Display: Performance to C:/Users/munye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=282.56MBs, RandomWriteSpeed=182.11MBs. Assigned SpeedClass 'Local'
+[2022.08.15-06.19.52:237][  0]LogDerivedDataCache: Using Local data cache path C:/Users/munye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.15-06.19.52:237][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.15-06.19.52:237][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.15-06.19.52:242][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.15-06.19.52:242][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.15-06.19.52:242][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../git/Water-System/WaterSystemProject/Intermediate/Shaders/WorkingDirectory/2444/).
+[2022.08.15-06.19.52:242][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/munye/AppData/Local/Temp/UnrealShaderWorkingDir/3C74062649C82E6CBBCCE8A0F00ADB22/'.
+[2022.08.15-06.19.52:242][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.15-06.19.52:242][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.08.15-06.19.53:297][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.15-06.19.53:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.15-06.19.53:329][  0]LogAssetRegistry: FAssetRegistry took 0.0131 seconds to start up
+[2022.08.15-06.19.53:335][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.15-06.19.53:485][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.15-06.19.53:486][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.15-06.19.53:745][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.15-06.19.53:745][  0]LogDeviceProfileManager: Active device profile: [000008DD3ED07C40][000008DD327B0000 50] WindowsEditor
+[2022.08.15-06.19.53:745][  0]LogDeviceProfileManager: Profiles: [000008DD3ED07700][000008DD23550000 50] Windows, [000008DD3ED07C40][000008DD327B0000 50] WindowsEditor, [000008DD3ED040C0][000008DD3F050000 50] WindowsServer, [000008DD3ED071C0][000008DD3F055000 50] WindowsClient, [000008DD3ED03100][000008DD3F057800 50] IOS, [000008DD3ED06C80][000008DD3F05A000 50] iPadAir2, [000008DD3ED08340][000008DD327B2800 50] IPadPro, [000008DD3ED086C0][000008DD3F05C800 50] iPadAir3, [000008DD3ED03B80][000008DD3F060000 50] iPadAir4, [000008DD3ED05B00][000008DD3F065000 50] iPadMini4, [000008DD3ED07A80][000008DD3F067800 50] iPadMini5, [000008DD3ED05940][000008DD3F06A000 50] iPadMini6, [000008DD3ED0B0C0][000008DD3F0B0000 50] iPhone6S, [000008DD3ED0B440][000008DD3F0B2800 50] iPhone7, [000008DD3ED0B7C0][000008DD3F0B5000 50] iPodTouch7, [000008DD3ED05080][000008DD3F0BA000 50] iPhone6SPlus, [000008DD3ED09840][000008DD3F0BC800 50] iPhone7Plus, [000008DD3ED0AB80][000008DD3F052800 50] iPhoneSE, [000008DD3ED08C00][000008DD3F06C800 50] iPhone8, [000008DD3ED07380][000008DD3F0B7800 50] iPhone8Plus, [000008DD3ED0A100][000008DD3F080000 50] iPhoneX, [000008DD3ED09D80][000008DD3F085000 50] iPhoneXS, [000008DD3ED06E40][000008DD3F087800 50] iPhoneXSMax, [000008DD3ED02F40][000008DD3F08A000 50] iPhoneXR, [000008DD3ED09A00][000008DD3F08C800 50] iPhone11, [000008DD3ED039C0][000008DD3F062800 50] iPhone11Pro, [000008DD3ED08500][000008DD3F090000 50] iPhone11ProMax, [000008DD3ED0B280][000008DD3F095000 50] iPhoneSE2, [000008DD3ED03D40][000008DD3F097800 50] iPhone12Mini, [000008DD3ED0B600][000008DD3F09A000 50] iPhone12, [000008DD3ED07540][000008DD3F09C800 50] iPhone12Pro, [000008DD3ED0BB40][000008DD3F082800 50] iPhone12ProMax, [000008DD3ED08DC0][000008DD3F0A0000 50] iPhone13Mini, [000008DD3ED05E80][000008DD3F0A5000 50] iPhone13, [000008DD3ED05400][000008DD3F0A7800 50] iPhone13Pro, [000008DD3ED05780][000008DD3F0AA000 50] iPhone13ProMax, [000008DD3ED0AD40][000008DD3F0AC800 50] iPadPro105, [000008DD3ED0A9C0][000008DD3F092800 50] iPadPro129, [000008DD3ED05240][000008DD3F0C0000 50] iPadPro97, [000008DD3ED09300][000008DD3F0C5000 50] iPadPro2_129, [000008DD3ED06580][000008DD3F0C7800 50] iPad5, [000008DD3ED08F80][000008DD3F0CA000 50] iPad6, [000008DD3ED06040][000008DD3F0CC800 50] iPad7, [000008DD3ED04EC0][000008DD3F0A2800 50] iPad8, [000008DD3ED08A40][000008DD3F0D0000 50] iPad9, [000008DD3ED09140][000008DD3F0D5000 50] iPadPro11, [000008DD3ED063C0][000008DD3F0D7800 50] iPadPro2_11, [000008DD3ED047C0][000008DD3F0DA000 50] iPadPro3_11, [000008DD3ED0B980][000008DD3F0DC800 50] iPadPro3_129, [000008DD3ED0AF00][000008DD3F0C2800 50] iPadPro4_129, [000008DD3ED09F40][000008DD3F0E0000 50] iPadPro5_129, [000008DD3ED07FC0][000008DD3F0E5000 50] AppleTV, [000008DD3ED07000][000008DD3F0E7800 50] AppleTV4K, [000008DD3ED094C0][000008DD3F0EA000 50] TVOS, [000008DD3ED0D740][000008DD3F0D2800 50] Mac, [000008DD3ED0DAC0][000008DD3F0EC800 50] MacEditor, [000008DD3ED032C0][000008DD3F0F0000 50] MacClient, [000008DD3ED0D200][000008DD3F0F5000 50] MacServer, [000008DD3ED0DE40][000008DD3F0FA000 50] Linux, [000008DD3ED0E1C0][000008DD3F0F7800 50] LinuxEditor, [000008DD3ED0A640][000008DD3F0FC800 50] LinuxArm64Editor, [000008DD3ED05CC0][000008DD3F0E2800 50] LinuxArm64, [000008DD3ED0BD00][000008DD3F100000 50] LinuxClient, [000008DD3ED0E380][000008DD3F105000 50] LinuxArm64Client, [000008DD3ED0BEC0][000008DD3F107800 50] LinuxServer, [000008DD3ED0C080][000008DD3F10A000 50] LinuxArm64Server, [000008DD3ED0A2C0][000008DD3F10C800 50] Android, [000008DD3ED0C240][000008DD3F0F2800 50] Android_Preview_OpenGL, [000008DD3ED04B40][000008DD3F110000 50] Android_Preview_Vulkan, [000008DD3ED0E8C0][000008DD3F115000 50] Android_Low, [000008DD3ED0E000][000008DD3F117800 50] Android_Mid, [000008DD3ED0CCC0][000008DD3F11A000 50] Android_High, [000008DD3ED09680][000008DD3F11C800 50] Android_Default, [000008DD3ED0D3C0][000008DD3F102800 50] Android_Adreno4xx, [000008DD3ED0D040][000008DD3F120000 50] Android_Adreno5xx_Low, [000008DD3ED0DC80][000008DD3F125000 50] Android_Adreno5xx, [000008DD3ED06740][000008DD3F127800 50] Android_Adreno6xx, [000008DD3ED04D00][000008DD3F12A000 50] Android_Adreno6xx_Vulkan, [000008DD3ED04600][000008DD3F12C800 50] Android_Adreno7xx, [000008DD3ED09BC0][000008DD3F112800 50] Android_Adreno7xx_Vulkan, [000008DD3ED08180][000008DD3F130000 50] Android_Mali_T6xx, [000008DD3ED04440][000008DD3F135000 50] Android_Mali_T7xx, [000008DD3ED0A480][000008DD3F137800 50] Android_Mali_T8xx, [000008DD3ED03F00][000008DD3F13A000 50] Android_Mali_G71, [000008DD3ED0A800][000008DD3F13C800 50] Android_Mali_G72, [000008DD3ED08880][000008DD3F122800 50] Android_Mali_G72_Vulkan, [000008DD3ED0F6C0][000008DD3F070000 50] Android_Mali_G76, [000008DD3ED0C940][000008DD3F075000 50] Android_Mali_G76_Vulkan, [000008DD3ED07E00][000008DD3F077800 50] Android_Mali_G77, [000008DD3ED0C5C0][000008DD3F07A000 50] Android_Mali_G77_Vulkan, [000008DD3ED0D580][000008DD3F07C800 50] Android_Mali_G78, [000008DD3ED0F180][000008DD3F132800 50] Android_Mali_G78_Vulkan, [000008DD3ED06AC0][000008DD3F140000 50] Android_Mali_G710, [000008DD3ED0CB00][000008DD3F145000 50] Android_Mali_G710_Vulkan, [000008DD3ED0CE80][000008DD3F147800 50] Android_Xclipse_920, [000008DD3ED0EA80][000008DD3F14A000 50] Android_Xclipse_920_Vulkan, [000008DD3ED0EFC0][000008DD3F14C800 50] Android_Vulkan_SM5, [000008DD3F152300][000008DD3F072800 50] Android_PowerVR_G6xxx, [000008DD3F150E00][000008DD3F160000 50] Android_PowerVR_GT7xxx, [000008DD3F1508C0][000008DD3F165000 50] Android_PowerVR_GE8xxx, [000008DD3F150700][000008DD3F167800 50] Android_PowerVR_GM9xxx, [000008DD3F150540][000008DD3F16A000 50] Android_PowerVR_GM9xxx_Vulkan, [000008DD3F150A80][000008DD3F16C800 50] Android_TegraK1, [000008DD3F150380][000008DD3F142800 50] Android_Unknown_Vulkan, [000008DD3F151880][000008DD3F170000 50] Oculus_Quest, [000008DD3F1539C0][000008DD3F175000 50] Oculus_Quest2, [000008DD3F151C00][000008DD3F177800 50] HoloLens, 
+[2022.08.15-06.19.53:745][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.15-06.19.53:765][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.15-06.19.53:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.15-06.19.53:915][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.15-06.19.53:915][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.15-06.19.53:915][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.15-06.19.53:915][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.15-06.19.53:927][  0]LogNetVersion: WaterSystemProject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3869212344)
+[2022.08.15-06.19.54:022][  0]LogSlate: Border
+[2022.08.15-06.19.54:022][  0]LogSlate: BreadcrumbButton
+[2022.08.15-06.19.54:022][  0]LogSlate: Default
+[2022.08.15-06.19.54:022][  0]LogSlate: Icons.Save
+[2022.08.15-06.19.54:022][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.15-06.19.54:022][  0]LogSlate: ListView
+[2022.08.15-06.19.54:022][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.15-06.19.54:022][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.15-06.19.54:022][  0]LogSlate: TableView.DarkRow
+[2022.08.15-06.19.54:022][  0]LogSlate: TableView.Row
+[2022.08.15-06.19.54:022][  0]LogSlate: TreeView
+[2022.08.15-06.19.54:151][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.54:172][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.54:172][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.54:266][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.08.15-06.19.54:266][  0]LogUObjectAllocator: 5780848 out of 0 bytes used by permanent object pool.
+[2022.08.15-06.19.54:266][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.15-06.19.54:551][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AD7F41844EE2AA7F8428EEB42017BA84 | Instance: 4FAA1EB2494C881D76F9888D9787A401 (LAPTOP-U7N7QVJ3-2444).
+[2022.08.15-06.19.54:606][  0]LogPython: Using Python 3.9.7
+[2022.08.15-06.19.55:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.15-06.19.55:226][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.15-06.19.55:524][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.55:530][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.55:533][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.55:554][  0]LogUProjectInfo: Found projects:
+[2022.08.15-06.19.55:579][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.15-06.19.55:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.15-06.19.55:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.15-06.19.55:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.15-06.19.55:723][  0]LogCollectionManager: Loaded 0 collections in 0.001335 seconds
+[2022.08.15-06.19.55:796][  0]LogFileCache: Scanning file cache for directory 'C:/git/Water-System/WaterSystemProject/Saved/Collections/' took 0.00s
+[2022.08.15-06.19.55:796][  0]LogFileCache: Scanning file cache for directory 'C:/git/Water-System/WaterSystemProject/Content/Developers/munye/Collections/' took 0.00s
+[2022.08.15-06.19.55:796][  0]LogFileCache: Scanning file cache for directory 'C:/git/Water-System/WaterSystemProject/Content/Collections/' took 0.00s
+[2022.08.15-06.19.56:039][  0]LogEngine: Initializing Engine...
+[2022.08.15-06.19.56:045][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.15-06.19.56:046][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.15-06.19.56:245][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.15-06.19.56:245][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.15-06.19.56:253][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.15-06.19.56:265][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.15-06.19.56:266][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.15-06.19.56:276][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.15-06.19.56:277][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.15-06.19.56:277][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.15-06.19.56:283][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.15-06.19.56:470][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers(Realtek(R) Audio Codec with THX Spatial Audio)
+[2022.08.15-06.19.56:470][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.15-06.19.56:472][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.15-06.19.56:472][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.15-06.19.56:472][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.15-06.19.56:472][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.15-06.19.56:474][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.15-06.19.56:474][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.15-06.19.56:474][  0]LogInit: FAudioDevice initialized.
+[2022.08.15-06.19.56:474][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.15-06.19.56:474][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.15-06.19.56:474][  0]LogInit: Texture streaming: Enabled
+[2022.08.15-06.19.56:493][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.08.15-06.19.56:498][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.15-06.19.56:514][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.15-06.19.56:520][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.15-06.19.56:520][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.15-06.19.57:293][  0]LogLiveCoding: Display: First instance in process group "UE_WaterSystemProject_0x43fa0b8f", spawning console
+[2022.08.15-06.19.57:293][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.15-06.19.57:293][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.15-06.19.57:311][  0]LogInit: Transaction tracking system initialized
+[2022.08.15-06.19.57:352][  0]BlueprintLog: New page: Editor Load
+[2022.08.15-06.19.57:442][  0]LocalizationService: Localization service is disabled
+[2022.08.15-06.19.57:465][  0]TimingProfiler: Initialize
+[2022.08.15-06.19.57:465][  0]TimingProfiler: OnSessionChanged
+[2022.08.15-06.19.57:465][  0]LoadingProfiler: Initialize
+[2022.08.15-06.19.57:465][  0]LoadingProfiler: OnSessionChanged
+[2022.08.15-06.19.57:465][  0]NetworkingProfiler: Initialize
+[2022.08.15-06.19.57:465][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.15-06.19.57:465][  0]MemoryProfiler: Initialize
+[2022.08.15-06.19.57:465][  0]MemoryProfiler: OnSessionChanged
+[2022.08.15-06.19.57:884][  0]LogFileCache: Scanning file cache for directory 'C:/git/Water-System/WaterSystemProject/Content/' took 0.02s
+[2022.08.15-06.19.57:884][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.15-06.19.57:924][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.15-06.19.57:925][  0]SourceControl: Source control is disabled
+[2022.08.15-06.19.57:925][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.427
+[2022.08.15-06.19.57:927][  0]Cmd: MAP LOAD FILE="../../../../../../git/Water-System/WaterSystemProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.15-06.19.57:927][  0]LightingResults: New page: Lighting Build
+[2022.08.15-06.19.57:929][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.15-06.19.57:930][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.15-06.19.57:930][  0]MapCheck: New page: Map Check
+[2022.08.15-06.19.57:930][  0]LightingResults: New page: Lighting Build
+[2022.08.15-06.19.57:934][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.15-06.19.57:938][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.15-06.19.58:044][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.15-06.19.58:046][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.15-06.19.58:051][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.15-06.19.58:056][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.15-06.19.58:065][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.15-06.19.58:065][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.15-06.19.58:065][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.15-06.19.58:067][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.15-06.19.58:068][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.15-06.19.58:074][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.15-06.19.58:074][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.15-06.19.58:075][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2022.08.15-06.19.58:075][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.149
+[2022.08.15-06.19.58:082][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.583
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: ================================================
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.15-06.19.58:082][  0]LogShaderCompilers: Display: ================================================
+[2022.08.15-06.19.58:195][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.08.15-06.19.58:196][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.08.15-06.19.58:196][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.08.15-06.19.58:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.15-06.19.58:208][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.15-06.19.58:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.15-06.19.58:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.15-06.19.58:295][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:295][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:296][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:297][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.15-06.19.58:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.15-06.19.58:376][  0]LogStall: Startup...
+[2022.08.15-06.19.58:378][  0]LogStall: Startup complete.
+[2022.08.15-06.19.58:385][  0]LogLoad: (Engine Initialization) Total time: 7.89 seconds
+[2022.08.15-06.19.58:386][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.15-06.19.58:429][  0]LogAssetRegistry: Asset discovery search completed in 5.1013 seconds
+[2022.08.15-06.19.58:436][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.15-06.19.58:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.15-06.19.58:486][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.15-06.19.58:488][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.15-06.19.58:490][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.15-06.19.58:491][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.15-06.20.01:239][113]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.15-06.20.01:244][113]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.15-06.20.03:013][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.15-06.20.03:061][217]LogAssetEditorSubsystem: Opening Asset editor for World /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest
+[2022.08.15-06.20.03:061][217]Cmd: MAP LOAD FILE="../../../../../../git/Water-System/WaterSystemProject/Content/WaterSystemTest/WaterSystemTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.15-06.20.03:061][217]LightingResults: New page: Lighting Build
+[2022.08.15-06.20.03:061][217]LoadErrors: New page: Loading map: WaterSystemTest.umap
+[2022.08.15-06.20.03:063][217]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.15-06.20.03:063][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.15-06.20.03:063][217]MapCheck: New page: Map Check
+[2022.08.15-06.20.03:063][217]LightingResults: New page: Lighting Build
+[2022.08.15-06.20.03:067][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.15-06.20.03:069][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.15-06.20.03:078][217]LogWorld: UWorld::CleanupWorld for WaterSystemTest, bSessionEnded=true, bCleanupResources=true
+[2022.08.15-06.20.03:078][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.15-06.20.03:084][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.15-06.20.03:090][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.15-06.20.03:092][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'WaterSystemTest'.
+[2022.08.15-06.20.03:094][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.15-06.20.03:095][217]LogAIModule: Creating AISystem for world WaterSystemTest
+[2022.08.15-06.20.03:095][217]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.15-06.20.03:095][217]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.15-06.20.03:159][217]LogWorldPartition: Display: WorldPartition initialize took 63 ms
+[2022.08.15-06.20.03:160][217]LogEditCondition: Error: EditCondition attempted to use an invalid operand "WorldPartition".
+[2022.08.15-06.20.03:160][217]LogEditCondition: Error: EditCondition attempted to use an invalid operand "TextureSizingType" (value error).
+[2022.08.15-06.20.03:169][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.15-06.20.03:176][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.15-06.20.03:180][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.15-06.20.03:181][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.094ms to complete.
+[2022.08.15-06.20.03:181][217]LogFileHelpers: Loading map 'WaterSystemTest' took 0.120
+[2022.08.15-06.20.12:905][785]Cmd: DELETE
+[2022.08.15-06.20.12:905][785]Cmd: ACTOR DELETE
+[2022.08.15-06.20.12:905][785]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.12:911][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.15-06.20.12:912][785]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.26:065][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.26:320][580]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.26:521][592]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.27:874][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.28:108][685]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.28:408][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.29:618][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.29:818][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.30:034][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.30:234][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.31:237][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.31:436][883]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.31:620][894]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.31:821][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.32:020][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.32:240][931]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.32:430][942]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.15-06.20.34:991][ 94]Cmd: DELETE
+[2022.08.15-06.20.34:991][ 94]Cmd: ACTOR DELETE
+[2022.08.15-06.20.34:991][ 94]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.34:992][ 94]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:000][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.15-06.20.35:000][ 94]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2022.08.15-06.20.35:475][123]Cmd: DELETE
+[2022.08.15-06.20.35:475][123]Cmd: ACTOR DELETE
+[2022.08.15-06.20.35:475][123]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:476][123]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:482][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.15-06.20.35:483][123]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.35:708][137]Cmd: DELETE
+[2022.08.15-06.20.35:708][137]Cmd: ACTOR DELETE
+[2022.08.15-06.20.35:708][137]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:709][137]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:715][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.35:716][137]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.35:907][149]Cmd: DELETE
+[2022.08.15-06.20.35:907][149]Cmd: ACTOR DELETE
+[2022.08.15-06.20.35:908][149]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:909][149]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.35:915][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.35:915][149]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:074][159]Cmd: DELETE
+[2022.08.15-06.20.36:074][159]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:074][159]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:075][159]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:081][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.36:082][159]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:341][175]Cmd: DELETE
+[2022.08.15-06.20.36:341][175]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:342][175]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:343][175]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:348][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.36:349][175]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:374][177]Cmd: DELETE
+[2022.08.15-06.20.36:375][177]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:375][177]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:375][177]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:381][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.36:382][177]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:408][179]Cmd: DELETE
+[2022.08.15-06.20.36:408][179]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:408][179]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:409][179]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:415][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.36:416][179]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:441][181]Cmd: DELETE
+[2022.08.15-06.20.36:441][181]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:441][181]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:442][181]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:448][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.15-06.20.36:448][181]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:458][182]Cmd: DELETE
+[2022.08.15-06.20.36:458][182]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:458][182]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:459][182]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:465][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.15-06.20.36:466][182]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:507][185]Cmd: DELETE
+[2022.08.15-06.20.36:507][185]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:507][185]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:508][185]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:515][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.36:516][185]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:541][187]Cmd: DELETE
+[2022.08.15-06.20.36:541][187]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:542][187]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:543][187]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:549][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.15-06.20.36:549][187]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:574][189]Cmd: DELETE
+[2022.08.15-06.20.36:574][189]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:574][189]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:575][189]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:581][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.36:582][189]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:607][191]Cmd: DELETE
+[2022.08.15-06.20.36:607][191]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:608][191]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:608][191]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:614][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.08.15-06.20.36:614][191]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:642][193]Cmd: DELETE
+[2022.08.15-06.20.36:642][193]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:642][193]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:643][193]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:650][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.36:650][193]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:659][194]Cmd: DELETE
+[2022.08.15-06.20.36:659][194]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:659][194]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:660][194]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:666][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.15-06.20.36:667][194]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:708][197]Cmd: DELETE
+[2022.08.15-06.20.36:708][197]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:708][197]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:709][197]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:715][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.15-06.20.36:716][197]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:724][198]Cmd: DELETE
+[2022.08.15-06.20.36:724][198]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:725][198]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:726][198]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:732][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.36:733][198]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:774][201]Cmd: DELETE
+[2022.08.15-06.20.36:774][201]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:774][201]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:775][201]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:782][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.15-06.20.36:782][201]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:807][203]Cmd: DELETE
+[2022.08.15-06.20.36:807][203]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:808][203]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:809][203]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:815][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.15-06.20.36:815][203]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:841][205]Cmd: DELETE
+[2022.08.15-06.20.36:841][205]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:841][205]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:842][205]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:848][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.36:849][205]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:875][207]Cmd: DELETE
+[2022.08.15-06.20.36:875][207]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:875][207]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:875][207]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:882][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.15-06.20.36:882][207]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:907][209]Cmd: DELETE
+[2022.08.15-06.20.36:908][209]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:908][209]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:909][209]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:914][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.08.15-06.20.36:914][209]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:924][210]Cmd: DELETE
+[2022.08.15-06.20.36:924][210]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:924][210]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:925][210]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:932][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.15-06.20.36:932][210]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.36:957][212]Cmd: DELETE
+[2022.08.15-06.20.36:958][212]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:958][212]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:958][212]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:964][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.36:966][212]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.20.36:991][214]Cmd: DELETE
+[2022.08.15-06.20.36:991][214]Cmd: ACTOR DELETE
+[2022.08.15-06.20.36:991][214]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:992][214]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.36:998][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.36:998][214]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:024][216]Cmd: DELETE
+[2022.08.15-06.20.37:024][216]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:024][216]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:025][216]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:032][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.15-06.20.37:033][216]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:058][218]Cmd: DELETE
+[2022.08.15-06.20.37:058][218]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:058][218]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:059][218]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:065][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.15-06.20.37:065][218]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:108][221]Cmd: DELETE
+[2022.08.15-06.20.37:108][221]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:108][221]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:109][221]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:115][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.37:116][221]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:141][223]Cmd: DELETE
+[2022.08.15-06.20.37:141][223]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:141][223]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:142][223]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:149][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.37:150][223]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:157][224]Cmd: DELETE
+[2022.08.15-06.20.37:157][224]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:157][224]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:158][224]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:165][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.15-06.20.37:165][224]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:191][226]Cmd: DELETE
+[2022.08.15-06.20.37:191][226]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:191][226]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:192][226]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:199][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.37:199][226]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:224][228]Cmd: DELETE
+[2022.08.15-06.20.37:225][228]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:225][228]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:226][228]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:232][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.08.15-06.20.37:232][228]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:257][230]Cmd: DELETE
+[2022.08.15-06.20.37:257][230]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:258][230]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:259][230]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:265][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.37:265][230]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:291][232]Cmd: DELETE
+[2022.08.15-06.20.37:291][232]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:291][232]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:292][232]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:299][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.20.37:299][232]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:341][235]Cmd: DELETE
+[2022.08.15-06.20.37:341][235]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:341][235]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:343][235]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:349][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.15-06.20.37:351][235]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2022.08.15-06.20.37:374][237]Cmd: DELETE
+[2022.08.15-06.20.37:374][237]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:375][237]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:375][237]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:382][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.20.37:382][237]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:391][238]Cmd: DELETE
+[2022.08.15-06.20.37:391][238]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:392][238]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:393][238]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:398][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.20.37:399][238]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.37:425][240]Cmd: DELETE
+[2022.08.15-06.20.37:425][240]Cmd: ACTOR DELETE
+[2022.08.15-06.20.37:425][240]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:425][240]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.20.37:432][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.15-06.20.37:432][240]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.20.42:202][525]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2022.08.15-06.20.42:202][525]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2022.08.15-06.20.42:204][525]LogActorFactory: Actor Factory attempting to spawn World /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest
+[2022.08.15-06.20.42:208][525]LogActorFactory: Actor Factory spawned World /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest as actor: WaterBrushManager /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape2_WaterBrushManager_0
+[2022.08.15-06.20.42:270][525]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.WaterBodyOcean_UAID_145AFC8279F6012D01_1792212855
+[2022.08.15-06.20.42:291][525]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.WaterBodyOcean_UAID_145AFC8279F6012D01_1792212855
+[2022.08.15-06.21.16:290][547]Cmd: DELETE
+[2022.08.15-06.21.16:290][547]Cmd: ACTOR DELETE
+[2022.08.15-06.21.16:291][547]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.16:298][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.15-06.21.16:298][547]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.21.16:524][561]Cmd: DELETE
+[2022.08.15-06.21.16:524][561]Cmd: ACTOR DELETE
+[2022.08.15-06.21.16:525][561]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6012D01_1689724857: Landscape can't be deleted because it still has 256 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.16:531][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.15-06.21.16:532][561]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.21.17:088][594]Cmd: DELETE
+[2022.08.15-06.21.17:088][594]Cmd: ACTOR DELETE
+[2022.08.15-06.21.17:089][594]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.17:095][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.15-06.21.17:097][594]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.17:306][607]Cmd: DELETE
+[2022.08.15-06.21.17:306][607]Cmd: ACTOR DELETE
+[2022.08.15-06.21.17:306][607]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.17:311][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.21.17:312][607]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2022.08.15-06.21.17:522][620]Cmd: DELETE
+[2022.08.15-06.21.17:522][620]Cmd: ACTOR DELETE
+[2022.08.15-06.21.17:522][620]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.17:529][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.21.17:530][620]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.17:722][632]Cmd: DELETE
+[2022.08.15-06.21.17:723][632]Cmd: ACTOR DELETE
+[2022.08.15-06.21.17:723][632]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.17:728][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.21.17:729][632]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.17:922][644]Cmd: DELETE
+[2022.08.15-06.21.17:923][644]Cmd: ACTOR DELETE
+[2022.08.15-06.21.17:923][644]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.17:929][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.15-06.21.17:929][644]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.18:139][657]Cmd: DELETE
+[2022.08.15-06.21.18:139][657]Cmd: ACTOR DELETE
+[2022.08.15-06.21.18:140][657]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.18:146][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.15-06.21.18:146][657]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.18:322][668]Cmd: DELETE
+[2022.08.15-06.21.18:322][668]Cmd: ACTOR DELETE
+[2022.08.15-06.21.18:322][668]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.18:328][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.21.18:329][668]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.52:058][686]Cmd: DELETE
+[2022.08.15-06.21.52:058][686]Cmd: ACTOR DELETE
+[2022.08.15-06.21.52:058][686]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.52:064][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.15-06.21.52:065][686]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.52:257][698]Cmd: DELETE
+[2022.08.15-06.21.52:258][698]Cmd: ACTOR DELETE
+[2022.08.15-06.21.52:258][698]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.52:265][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.21.52:266][698]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.52:458][710]Cmd: DELETE
+[2022.08.15-06.21.52:458][710]Cmd: ACTOR DELETE
+[2022.08.15-06.21.52:458][710]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.52:464][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.15-06.21.52:464][710]LogDerivedDataCache: C:/Users/munye/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.226 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.15-06.21.52:464][710]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.52:658][722]Cmd: DELETE
+[2022.08.15-06.21.52:658][722]Cmd: ACTOR DELETE
+[2022.08.15-06.21.52:658][722]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.52:664][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.15-06.21.52:665][722]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.52:841][733]Cmd: DELETE
+[2022.08.15-06.21.52:841][733]Cmd: ACTOR DELETE
+[2022.08.15-06.21.52:842][733]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.52:848][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.15-06.21.52:848][733]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.53:042][745]Cmd: DELETE
+[2022.08.15-06.21.53:042][745]Cmd: ACTOR DELETE
+[2022.08.15-06.21.53:042][745]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.53:048][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.15-06.21.53:048][745]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.53:241][757]Cmd: DELETE
+[2022.08.15-06.21.53:241][757]Cmd: ACTOR DELETE
+[2022.08.15-06.21.53:241][757]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.53:247][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.15-06.21.53:248][757]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2022.08.15-06.21.53:507][773]Cmd: DELETE
+[2022.08.15-06.21.53:508][773]Cmd: ACTOR DELETE
+[2022.08.15-06.21.53:508][773]LogEditorActor: Cannot delete actor Landscape /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest:PersistentLevel.Landscape_UAID_145AFC8279F6002D01_1608125679: Landscape can't be deleted because it still has 16 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.08.15-06.21.53:515][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.15-06.21.53:515][773]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2022.08.15-06.22.37:285][748]LogObjectTools: Deleting 1 worlds: /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest
+[2022.08.15-06.22.37:286][748]LogObjectTools: Currently 1 active worlds: /Game/WaterSystemTest/WaterSystemTest.WaterSystemTest
+[2022.08.15-06.22.39:358][748]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.15-06.22.39:362][748]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.15-06.22.43:969][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.08.15-06.22.45:617][ 19]LogSlate: Window 'Save Content' being destroyed
+[2022.08.15-06.22.45:766][ 19]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2022.08.15-06.22.45:804][ 19]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform should be resaved to improve async compilation performance.
+[2022.08.15-06.22.45:812][ 19]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2022.08.15-06.22.45:812][ 19]Cmd: MAP LOAD FILE="../../../../../../git/Water-System/WaterSystemProject/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.15-06.22.45:812][ 19]LightingResults: New page: Lighting Build
+[2022.08.15-06.22.45:812][ 19]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2022.08.15-06.22.45:813][ 19]LogWorld: UWorld::CleanupWorld for WaterSystemTest, bSessionEnded=true, bCleanupResources=true
+[2022.08.15-06.22.45:816][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.15-06.22.45:820][ 19]MapCheck: New page: Map Check
+[2022.08.15-06.22.45:821][ 19]LightingResults: New page: Lighting Build
+[2022.08.15-06.22.45:831][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.15-06.22.45:834][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
